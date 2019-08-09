@@ -1,6 +1,7 @@
 # springframework-java-sample
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/springframework-java-sample/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/BurhanH/springframework-java-sample.svg?branch=master)](https://travis-ci.org/BurhanH/springframework-java-sample)
 
 Spring Boot. Spring framework 2.1.6, Java 12, junit
 
