@@ -10,8 +10,8 @@ The goal was to understand how works Spring framework and how to publish the Spr
 
 The main article - [https://spring.io/guides/gs/spring-boot/](https://spring.io/guides/gs/spring-boot/ "Spring Boot")
 
-Helpful links
--------------
+## Helpful links
+
 [https://spring-boot-baur.herokuapp.com/actuator](https://spring-boot-baur.herokuapp.com/actuator)
 
 [https://spring-boot-baur.herokuapp.com/actuator/health](https://spring-boot-baur.herokuapp.com/actuator/health)
