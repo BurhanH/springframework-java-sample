@@ -12,8 +12,8 @@ The main article - [https://spring.io/guides/gs/spring-boot/](https://spring.io/
 
 ## Helpful links
 
-https://spring-boot-baur.herokuapp.com/actuator  Currently unavailable due Heroku limit (only 5 free projects!).
+spring-boot-baur.herokuapp.com/actuator  Currently unavailable due Heroku limit (only 5 free projects!).
 
-https://spring-boot-baur.herokuapp.com/actuator/health
+spring-boot-baur.herokuapp.com/actuator/health
 
-https://spring-boot-baur.herokuapp.com/actuator/info
+spring-boot-baur.herokuapp.com/actuator/info
